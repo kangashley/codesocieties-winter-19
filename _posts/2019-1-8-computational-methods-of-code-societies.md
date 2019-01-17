@@ -2,6 +2,7 @@
 title: Computational Methods of Code Societies
 subtitle: Day 2 ~ taught by Melanie Hoffman and Nabil Hassein on January 8th 2019
 author: ✿ this guide was compiled by emma @doodybrains rae norton
+description: A one-session class covering the primary computational methods of Code Societies Classes: Winter 2019.
 ---
 
 _🍃The computer, the programmer, the relationship they have with each other, and the environments they create🍃_
